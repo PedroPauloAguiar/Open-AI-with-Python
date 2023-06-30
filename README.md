@@ -34,3 +34,8 @@ No projeto 3, monitoramos o site da Amazon utilizando o Selenium.
 No projeto 4, utilizamos o whisper para transcrever um arquivo de áudio na pasta audio, para que a IA possa transcrever e traduzir o audio.
 
 No projeto 5, utilizamos o PyPDF2 para que a IA possa unir dois arquivos PDF em um só.
+
+Os projetos 6 e 7 são utilizações do IA pelo proprio site do chatgpt, aonde é mostrado a correção de um código em python e a criação de uma documentação para outro.
+
+![UC-f8709679-584f-4ec4-a052-4f6b8ba1ad78](https://github.com/PedroPauloAguiar/Open-AI-with-Python/assets/114187874/3b2d2799-2765-4c21-82dc-2025d9fff575)
+
