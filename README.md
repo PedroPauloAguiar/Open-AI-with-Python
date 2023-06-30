@@ -32,3 +32,5 @@ No projeto 2, utilizamos o DALL-E junto ao python, para gerar imagens com a IA.
 No projeto 3, monitoramos o site da Amazon utilizando o Selenium.
 
 No projeto 4, utilizamos o whisper para transcrever um arquivo de áudio na pasta audio, para que a IA possa transcrever e traduzir o audio.
+
+No projeto 5, utilizamos o PyPDF2 para que a IA possa unir dois arquivos PDF em um só.
