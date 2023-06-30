@@ -1,5 +1,6 @@
 # OpenAI-com-Python
-Repositório do curso de integração da IA do chat GPT4 com Python 
+
+Repositório do curso de integração da IA do chat GPT4 com Python
 
 API Reference : https://platform.openai.com/docs/api-reference
 
@@ -20,9 +21,12 @@ A utilização da API é cobrada por Tokens:
 
 <img width="925" alt="Screenshot_5" src="https://github.com/PedroPauloAguiar/Open-AI-with-Python/assets/114187874/6b2591c0-4f46-44f8-8c09-f1a8d4549cc6">
 
-
 Para mais informações, acesse a documentação de billing da IA:
+
 https://openai.com/pricing
 
+No projeto 1, testamos a integração da IA com o python.
 
+No projeto 2, utilizamos o DALL-E junto ao python, para gerar imagens com a IA.
 
+No projeto 3, monitoramos o site da Amazon utilizando o Selenium.

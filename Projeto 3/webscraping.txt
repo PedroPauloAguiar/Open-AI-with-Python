@@ -1,0 +1,9 @@
+Crie um programa em Python e Selenium para
+fazer o webscrape da seguinte
+pagina: 
+https://www.amazon.com/dp/1789346347/ref=cm_sw_r_as_gl_api_gl_i_HFYB8PHAX05B8ERE4TC6?linkCode=ml1&tag=meucamdesan-20
+
+Aguarde 5 e localize o elemnto <span class="a-text-price">
+
+Este código dever retornar na tela o valor do livro
+se o valor for menor do que $40. Retorne "Comprar o livro"
